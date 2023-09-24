@@ -1,0 +1,25 @@
+.contrainer{
+    display: flex;
+    justify-content: center;
+    margin: 200px 150px;
+}
+
+.splash h1{
+    font-size: 60px;
+}
+
+.splash p{
+    font-size: 20px;
+}
+
+.music-text{
+    font-size: 20px;
+}
+
+.music-text p{
+    padding: 8px;
+}
+
+.source{
+    text-align: center;
+}
